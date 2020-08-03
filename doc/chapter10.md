@@ -77,4 +77,3 @@ InstrumentedHashSet과 HashSet addAll 메서드
 중복 코드를 부모 클래스로 올려라
 
  - 부모 클래스의 코드를 하위로 내리지 말고 자식 클래스의 코드를 상위로 올려라
-
